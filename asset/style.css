@@ -12,9 +12,10 @@ main {
     margin-left: 0;
     margin-top: 0;
     background-color: aliceblue;
-    padding: 0px;
+    padding: 5px;
     display: flex;
     flex-direction: row-reverse;
+
 }
 
 #cont1 {
@@ -35,4 +36,5 @@ main {
     margin-top: 0;
     margin-right: 0;
     margin-left: 0;
+    color: white;
 }
