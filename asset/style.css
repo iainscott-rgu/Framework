@@ -13,7 +13,7 @@ main {
     margin-top: 0;
     background-color: aliceblue;
     padding: 0px;
-    display: flex;
+
     flex-direction: row;
 
 }
@@ -28,12 +28,14 @@ main {
 #cont2 {
     background-color: silver;
     margin: 10px;
+    display: flex;
 
 }
 
 #cont3 {
     background-color: saddlebrown;
     margin: 10px;
+    display: flex;
 }
 
 .banner{
