@@ -54,10 +54,10 @@ main {
 }
 
 .nav {
-    background-color: white;
+    background-color: lightgray;
     margin-top: 0;
     margin-right: 0;
     margin-left: 0;
-    color: lightgray;
+    color: black;
     text-align: right;
 }
