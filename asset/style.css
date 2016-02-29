@@ -8,6 +8,8 @@ main {
     margin-left: auto;
     background-color: aliceblue;
     padding: 10px;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 #cont1 {
