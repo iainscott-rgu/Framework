@@ -12,7 +12,7 @@ main {
     margin-left: 0;
     margin-top: 0;
     background-color: aliceblue;
-    padding: 5px;
+    padding: 0px;
     display: flex;
     flex-direction: row-reverse;
 
